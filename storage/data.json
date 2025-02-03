@@ -1,1 +1,14 @@
-{}
+{
+    "2025-1-2T23:52:15.032221": {
+        "username": "foo",
+        "message": "bar"
+    },
+    "2025-02-03T07:53:31.005853": {
+        "username": "John",
+        "message": "Hi"
+    },
+    "2025-02-03T07:57:27.376828": {
+        "username": "Strict",
+        "message": "Rules"
+    }
+}
